@@ -1,6 +1,5 @@
-# model interpretation considering both time and frequency axes
-* Authors are still re-organizing the code.
-* Manual will be ready soon.
+# Model Interpretation Considering Both Time and Frequency Axes Given Time Series Data
+* Official implementation of the [research](https://doi.org/10.3390/app122412807).
 
 # Citation
 ```
